@@ -1,0 +1,636 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Масгенл",
+      "lastAccessed": 1740761042961,
+      "markers": [
+        {
+          "id": "ID_8bd9e9c92ada",
+          "type": "Invis",
+          "loc": [
+            174.9499969482422,
+            134.75
+          ],
+          "link": "Площадь слёз",
+          "layer": "%5B%5B%D0%9C%D0%B0%D1%81%D0%B3%D0%BD%D0%B5%D0%BB.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            16.149812734082396,
+            -22.81568987200713
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Локации/Города/Масгнел/Масгнел.md"
+      ]
+    },
+    {
+      "id": "Морвин",
+      "lastAccessed": 1744671072084,
+      "markers": [
+        {
+          "id": "ID_49eae8696b08",
+          "type": "Invis",
+          "loc": [
+            156.27059864222701,
+            75.02403379972999
+          ],
+          "layer": "%5B%5B%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%BB%D0%B8%D1%81%D1%82.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            9.380294335888097,
+            -19.538594995072096
+          ],
+          "description": "Таверна",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Локации/Деревни/Морвин/Морвин.md"
+      ]
+    },
+    {
+      "id": "Аллия_сlear",
+      "lastAccessed": 1751388598288,
+      "markers": [
+        {
+          "id": "ID_4948cbdb7929",
+          "type": "Invis",
+          "loc": [
+            190.81718216265364,
+            114.83415852804448
+          ],
+          "link": "Масгнел",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a09ababcbda",
+          "type": "Invis",
+          "loc": [
+            187.39999389648438,
+            156.70001220703125
+          ],
+          "link": "Риоль",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            19.5922847985348,
+            -23.430719627594627
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bbb0a59bb79",
+          "type": "Invis",
+          "loc": [
+            153.9281234741211,
+            160.95001220703125
+          ],
+          "link": "Древнолист",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8cacb68f88b",
+          "type": "Invis",
+          "loc": [
+            153.52812957763672,
+            77.75001525878906
+          ],
+          "link": "Морвин",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Локации/Аллия/Аллия.md"
+      ]
+    },
+    {
+      "id": "Аллия",
+      "locked": false,
+      "lastAccessed": 1751388598288,
+      "markers": [
+        {
+          "id": "ID_099ad94bf9bb",
+          "type": "Invis",
+          "loc": [
+            191.02489801650515,
+            113.87953847841891
+          ],
+          "link": "Масгнел",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            14.238418486190593,
+            -23.88394329290614
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb3978d95ad9",
+          "type": "Invis",
+          "loc": [
+            154.3000030517578,
+            77.30000305175781
+          ],
+          "link": "Морвин",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            9.664859966422467,
+            -19.292210393772894
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b09db39aac9",
+          "type": "Invis",
+          "loc": [
+            154.85000228881836,
+            160.625
+          ],
+          "link": "Древнолист",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            20.083028083028083,
+            -19.360977087148964
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db4859d9896a",
+          "type": "default",
+          "loc": [
+            81.86749244524681,
+            45.997287484510345
+          ],
+          "link": "Базы контрабандистов#База 5:",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38e919b949a9",
+          "type": "default",
+          "loc": [
+            211.42492757477774,
+            73.6805136521264
+          ],
+          "link": "Базы контрабандистов#База 7:",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a1819789aa9",
+          "type": "default",
+          "loc": [
+            183.37811660766602,
+            147.9999542236328
+          ],
+          "link": "Базы контрабандистов#База 1:",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b9b5898591b",
+          "type": "default",
+          "loc": [
+            150.9281120300293,
+            98.79995727539062
+          ],
+          "link": "Базы контрабандистов#База 4:",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_385a18f88abb",
+          "type": "default",
+          "loc": [
+            42.42811965942383,
+            111.34996032714844
+          ],
+          "link": "Базы контрабандистов#База 6:",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6879b9fb488a",
+          "type": "default",
+          "loc": [
+            49.87812423706055,
+            211.199951171875
+          ],
+          "link": "Базы контрабандистов#База 3:",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9180a29eaf8",
+          "type": "default",
+          "loc": [
+            109.7275007029561,
+            219.27380637219247
+          ],
+          "link": "Базы контрабандистов#База 2:",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_187bbaa998aa",
+          "type": "default",
+          "loc": [
+            240.27812576293945,
+            182
+          ],
+          "link": "Базы контрабандистов#База 8:",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5aba6a681a6b",
+          "type": "Invis",
+          "loc": [
+            191.60000610351562,
+            157.40000915527344
+          ],
+          "link": "Риоль",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88faabeb5b19",
+          "type": "Invis",
+          "loc": [
+            151.71418039991553,
+            160.86679271993958
+          ],
+          "link": "Древнолист",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Сюжет/Дополнительные задания/Базы контрабандистов.md"
+      ]
+    },
+    {
+      "id": "Риоль",
+      "lastAccessed": 1751388598288,
+      "markers": [
+        {
+          "id": "ID_6878d9386968",
+          "type": "Invis",
+          "loc": [
+            196.86996121426637,
+            261.06261964243583
+          ],
+          "link": "Пещера гоблинов#Вход",
+          "layer": "%5B%5B%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%D0%B3%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            213.86249801108343,
+            -161.27587222672702
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a18e85a0b58",
+          "type": "Invis",
+          "loc": [
+            207.41323686602303,
+            206.5734701575605
+          ],
+          "link": "Пещера гоблинов#Общая комната",
+          "layer": "%5B%5B%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%D0%B3%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            169.22498675307358,
+            -169.91292364064606
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b48ba0928d9",
+          "type": "Invis",
+          "loc": [
+            96.7555183749762,
+            185.86018330369492
+          ],
+          "link": "Пещера гоблинов#Бараки",
+          "layer": "%5B%5B%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%D0%B3%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            152.25666216238687,
+            -79.26212065278051
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8cb49b97919",
+          "type": "Invis",
+          "loc": [
+            155.47937209707416,
+            118.22589218781104
+          ],
+          "link": "Пещера гоблинов#Кухня",
+          "layer": "%5B%5B%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%D0%B3%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99aaf899b97a",
+          "type": "Invis",
+          "loc": [
+            221.03551711876506,
+            121.38759789372008
+          ],
+          "link": "Пещера гоблинов#Хранилище",
+          "layer": "%5B%5B%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%D0%B3%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            99.44072019453549,
+            -181.07229562369233
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a6a78d91b5b",
+          "type": "Invis",
+          "loc": [
+            204.10679693117837,
+            64.93907343183602
+          ],
+          "link": "Пещера гоблинов#Комната тролля",
+          "layer": "%5B%5B%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%D0%B3%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0aaadafbbaaa",
+          "type": "Invis",
+          "loc": [
+            76.78863228782357,
+            78.93459677879535
+          ],
+          "link": "Пещера гоблинов#Комната с похищенными детьми",
+          "layer": "%5B%5B%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0%20%D0%B3%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            64.66322168118916,
+            -62.905247570185075
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Invis",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAADVJREFUSEvt0rEJAAAMAkHdf2lH+MruU0uEw+Z8Pf+PBSgskUQogAFXJBEKYMAVSYQCGLivaHrEABkDr5mAAAAAAElFTkSuQmCC",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 1.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Аллия.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Аллия.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "Аллия",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        275,
+        275
+      ]
+    ],
+    "unit": "miles",
+    "heigth": 4095,
+    "width": 4095,
+    "lat": 96,
+    "long": 128,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

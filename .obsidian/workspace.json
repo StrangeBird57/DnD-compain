@@ -1,0 +1,355 @@
+{
+  "main": {
+    "id": "0de41f314ef30c4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4f301d08977b1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af637643a21f9524",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Локации/Аллия/Аллия.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Аллия"
+            }
+          },
+          {
+            "id": "6f0724926d271288",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сюжет/Глава 1/Часть 4. Освобождение.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Часть 4. Освобождение"
+            }
+          },
+          {
+            "id": "8a87d6062220de70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сюжет/Глава 1/Часть 4. Освобождение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Часть 4. Освобождение"
+            }
+          },
+          {
+            "id": "3f8f886eae7c06af",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сюжет/Дополнительные задания/Базы контрабандистов.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Базы контрабандистов"
+            }
+          },
+          {
+            "id": "b45163aa1035295e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Локации/Особые локации/Пещера гоблинов.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Пещера гоблинов"
+            }
+          },
+          {
+            "id": "85de0907a0f31a41",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Локации/Деревни/Древнолист/Таверна Совиный глаз.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Таверна Совиный глаз"
+            }
+          },
+          {
+            "id": "ff6b5dcf19547866",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "353f060968fac140",
+    "type": "split",
+    "children": [
+      {
+        "id": "92cb1cdd7d6caf3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60dd72989160dce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "411ad95ab2345ad4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "05b32dab724e37ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a40fdf8132c7988f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee445b3602a0cbff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8396a70b2a14ec41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Локации/Особые локации/Пещера гоблинов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Пещера гоблинов"
+            }
+          },
+          {
+            "id": "e78da557f613c48b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Локации/Особые локации/Пещера гоблинов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Пещера гоблинов"
+            }
+          },
+          {
+            "id": "3aaa3742fa604e71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b30c9291c3e6fbf1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сюжет/Глава 1/Часть 4. Освобождение.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Часть 4. Освобождение"
+            }
+          },
+          {
+            "id": "9ca43684b340e972",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "33968014b18e1cff",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "3a762ec15fc93616",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "65912166521ad83c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "30fe05fb3c273383",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3a762ec15fc93616",
+  "lastOpenFiles": [
+    "Сюжет/Глава 1/Часть 3. Во льдах.md",
+    "Сюжет/Глава 1/Часть 2. Услуга за услугу.md",
+    "Сюжет/Глава 1/Часть 1. В цепях.md",
+    "Сюжет/Глава 1/Часть 4. Освобождение.md",
+    "Общая информация/Предметы/Сосуд для сбора эссенций.md",
+    "Локации/Особые локации/Пещера гоблинов.md",
+    "Бои/Глава 1/Часть 4/Повелитель гоблинов.md",
+    "Локации/Деревни/Древнолист/Таверна Совиный глаз.md",
+    "Сюжет/Глава 2/Начало.md",
+    "Общая информация/Предметы.md",
+    "Общая информация/Предметы",
+    "Картинки/Предметы/Сосуд для эссенций.jpg",
+    "Картинки/Предметы/Флакон для эссенций.jpg.opdownload",
+    "Картинки/Предметы/Страрое письмо.jpg",
+    "Картинки/Предметы",
+    "Локации/Деревни/Древнолист/Древнолист.md",
+    "НИПы/Доминго Рук.md",
+    "Сюжет/Дополнительные задания/Базы контрабандистов.md",
+    "Локации/Аллия/Аллия.md",
+    "Локации/Деревни/Деревня табакси.md",
+    "Локации/Деревни/Древнолист/Дом Роуэна.md",
+    "НИПы/Роуэн Эшфилд.md",
+    "Локации/Особые локации/Эния/Эния.md",
+    "Персонажи/Не Вадим.pdf",
+    "Персонажи/Мири Эвенвуд.pdf",
+    "Персонажи/Крылья.pdf",
+    "Общая информация/Рабское клеймо.md",
+    "Общая информация/Предметы/Старинное письмо.md",
+    "!Дом Роуэна.md",
+    "Бои/Глава 1/Часть 4/Без названия.md",
+    "Общая информация/Торговцы/Странствующий торговец (Морвин - Масгнел).md",
+    "Локации/Города/Риоль.md",
+    "Локации/Деревни/Риоль/Риоль.md",
+    "Локации/Города/Масгнел/Масгнел.md",
+    "Картинки/Дополнитьельные/Страрое письмо.jpg"
+  ]
+}
