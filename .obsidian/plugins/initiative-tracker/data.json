@@ -318,7 +318,7 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
+    "showParty": false,
     "showXP": false,
     "sidebarIcon": true,
     "headers": [

@@ -62,88 +62,6 @@
       ]
     },
     {
-      "id": "Аллия_сlear",
-      "lastAccessed": 1751388598288,
-      "markers": [
-        {
-          "id": "ID_4948cbdb7929",
-          "type": "Invis",
-          "loc": [
-            190.81718216265364,
-            114.83415852804448
-          ],
-          "link": "Масгнел",
-          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5a09ababcbda",
-          "type": "Invis",
-          "loc": [
-            187.39999389648438,
-            156.70001220703125
-          ],
-          "link": "Риоль",
-          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            19.5922847985348,
-            -23.430719627594627
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1bbb0a59bb79",
-          "type": "Invis",
-          "loc": [
-            153.9281234741211,
-            160.95001220703125
-          ],
-          "link": "Древнолист",
-          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b8cacb68f88b",
-          "type": "Invis",
-          "loc": [
-            153.52812957763672,
-            77.75001525878906
-          ],
-          "link": "Морвин",
-          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Локации/Аллия/Аллия.md"
-      ]
-    },
-    {
       "id": "Аллия",
       "locked": false,
       "lastAccessed": 1751388598288,
@@ -527,6 +445,88 @@
       "overlays": [],
       "shapes": [],
       "files": []
+    },
+    {
+      "id": "Аллия_сlear",
+      "lastAccessed": 1751573898489,
+      "markers": [
+        {
+          "id": "ID_4948cbdb7929",
+          "type": "Invis",
+          "loc": [
+            190.81718216265364,
+            114.83415852804448
+          ],
+          "link": "Масгнел",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a09ababcbda",
+          "type": "Invis",
+          "loc": [
+            187.39999389648438,
+            156.70001220703125
+          ],
+          "link": "Риоль",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            19.5922847985348,
+            -23.430719627594627
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bbb0a59bb79",
+          "type": "Invis",
+          "loc": [
+            153.9281234741211,
+            160.95001220703125
+          ],
+          "link": "Древнолист",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8cacb68f88b",
+          "type": "Invis",
+          "loc": [
+            153.52812957763672,
+            77.75001525878906
+          ],
+          "link": "Морвин",
+          "layer": "%5B%5B%D0%90%D0%BB%D0%BB%D0%B8%D1%8F.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Локации/Аллия/Аллия.md"
+      ]
     }
   ],
   "defaultMarker": {
